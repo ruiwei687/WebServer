@@ -3,24 +3,28 @@
         "version": "1.0.0",
         "device": "WinUI",
         "url": "https://bgate.blob.core.windows.net/bgate/BeautifulGate_1.1.1.0_x64.msix",
+        "filename": "installer.msix",
         "info": "value"
     },
     {
         "version": "1.0.0",
         "device": "iOS",
         "url": "value",
+        "filename": "installer.msix",
         "info": "value"
     },
     {
         "version": "1.0.0",
         "device": "Android",
         "url": "value",
+        "filename": "installer.apk",
         "info": "value"
     },
     {
         "version": "1.0.0",
         "device": "MacCatalyst",
         "url": "value",
+        "filename": "installer.msix",
         "info": "value"
     }
 ]
