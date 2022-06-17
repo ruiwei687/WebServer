@@ -1,13 +1,13 @@
 [
     {
         "version": "1.0.0",
-        "device": "WINUI",
+        "device": "WinUI",
         "url": "value",
         "info": "value"
     },
     {
         "version": "1.0.0",
-        "device": "IOS",
+        "device": "iOS",
         "url": "value",
         "info": "value"
     },
@@ -19,7 +19,7 @@
     },
     {
         "version": "1.0.0",
-        "device": "Mac",
+        "device": "MacCatalyst",
         "url": "value",
         "info": "value"
     }
