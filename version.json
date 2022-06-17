@@ -1,2 +1,26 @@
-{
-}
+[
+    {
+        "version": "1.0.0",
+        "device": "WINUI",
+        "url": "value",
+        "info": "value"
+    },
+    {
+        "version": "1.0.0",
+        "device": "IOS",
+        "url": "value",
+        "info": "value"
+    },
+    {
+        "version": "1.0.0",
+        "device": "Android",
+        "url": "value",
+        "info": "value"
+    },
+    {
+        "version": "1.0.0",
+        "device": "Mac",
+        "url": "value",
+        "info": "value"
+    }
+]
