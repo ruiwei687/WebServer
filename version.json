@@ -2,7 +2,7 @@
     {
         "version": "1.0.0",
         "device": "WinUI",
-        "url": "value",
+        "url": "https://bgate.blob.core.windows.net/bgate/BeautifulGate_1.1.1.0_x64.msix",
         "info": "value"
     },
     {
